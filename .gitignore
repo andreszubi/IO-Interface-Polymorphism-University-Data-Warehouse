@@ -1,0 +1,13 @@
+# Archives
+*.zip
+
+# Compiled classes
+*.class
+
+# Generated output
+out.csv
+
+# IDE / OS files
+.idea/
+*.iml
+.DS_Store
